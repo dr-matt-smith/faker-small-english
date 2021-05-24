@@ -1,0 +1,7 @@
+.build/
+vendor
+composer.lock
+
+.idea
+.vscode
+.DS_STORE
